@@ -37,8 +37,7 @@ Pastikan Apache dan MySQL aktif di XAMPP sebelum menjalankan sistem.
 Sistem ini masih dapat dikembangkan lebih lanjut (absensi, raport, rekap nilai per semester, dsb).
 
 📬 Kontak
-Pengembang: Sulton Fatah, S.Si
-Email: sulton.fatah.017@gmail.com
-GitHub: https://github.com/Sieghard-svg
-Sumber dari berbagai pihak dan bantuan AI coding
-Thanks to (https://github.com/nauvalazhar) for Bootstrap
+Pengembang: Sulton Fatah, S.Si.
+Email: sulton.fatah.017@gmail.com.
+GitHub: https://github.com/Sieghard-svg.
+Sumber dari berbagai pihak dan bantuan AI coding.
