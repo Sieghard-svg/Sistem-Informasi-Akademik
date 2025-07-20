@@ -1,0 +1,6 @@
+<?php
+include '../auth/koneksi.php';
+$id = intval($_GET['id']);
+$query = mysqli_query($koneksi, "DELETE FROM tb_data_siswa WHERE id = '$id'");
+header("Location:home.php?page=data-siswa");
+exit;
