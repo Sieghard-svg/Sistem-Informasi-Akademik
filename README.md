@@ -31,7 +31,7 @@ Sistem Informasi Akademik adalah aplikasi berbasis web yang digunakan untuk meng
 - buat database, kosong
 - import sql _db_sma2jorong.sql_
 - buka browser dan masukkan _localhost/sma2jorong_
-- user admin password 12345
+- user admin password 12345/630102
 
 Pastikan Apache dan MySQL aktif di XAMPP sebelum menjalankan sistem.
 Sistem ini masih dapat dikembangkan lebih lanjut (absensi, raport, rekap nilai per semester, dsb).
